@@ -35,10 +35,9 @@ Pérez, M., León, F., Pinto, L., y Mejía, O. (2025). Documento de Analítica A
   title        = {Documento de Analítica Académica No 24. Caracterización de estudiantes presenciales de pregrado recién ingreso periodo 2025-1.},
   institution  = {Universidad de Santander (UDES)},
   year         = {2025},
-  note         = {Vicerrectoría de Enseñanza},
-  url          = {https://analiticaudes.github.io/Alerta1_Cx_2025-1/},
+  note         = {Vicerrectoría de Enseñanza. Disponible también en: \url{https://analiticaudes.github.io/Alerta1_Cx_2025-1/}},
   type         = {Informe técnico}
-  doi          = {https://doi.org/10.5281/zenodo.15832245}
+  doi          = {10.5281/zenodo.15832245} {https://doi.org/10.5281/zenodo.15832245}
 }
 ```
 
